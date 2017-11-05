@@ -1,2 +1,2 @@
-# Bli_SQLServer
+# lib_SQLServer
 Scripts e projetos para DBAs SQL Server
